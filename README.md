@@ -5,7 +5,7 @@ This is a Demo for Git &amp; Github class.
 Kareem Khan 
 
 # Student
-Delta Student
+Sigma Student
 
 #Title 
 Github
